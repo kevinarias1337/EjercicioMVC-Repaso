@@ -1,0 +1,6 @@
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\bin\Debug\MODELO.dll
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\bin\Debug\MODELO.pdb
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\obj\Debug\MODELO.dll
+C:\Users\censa\Desktop\MVC(Vista)\MODELO\obj\Debug\MODELO.pdb
